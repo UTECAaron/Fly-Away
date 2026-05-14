@@ -1,0 +1,6 @@
+Reserva: 1
+Pasajero: Juan Perez
+Vuelo: AA984
+Salida: 2026-12-01T10:00
+Llegada: 2026-12-01T14:00
+Fecha reserva: 2026-05-09T10:33:45.011405300
